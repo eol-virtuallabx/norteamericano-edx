@@ -1,0 +1,1 @@
+-e git+https://github.com/eol-virtuallabx/eol_duplicate_xblock@bdd3f406521cb028c142eb29e6c3c9c6433bba49#egg=eol_duplicate_xblock
