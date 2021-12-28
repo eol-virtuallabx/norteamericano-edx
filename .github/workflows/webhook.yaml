@@ -3,7 +3,7 @@ name: ArgoCD CI webhook
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build:
@@ -11,6 +11,6 @@ jobs:
 
     steps:
       - name: Trigger upload only on the correct branch
-        if: github.ref == 'refs/heads/main'
+        if: github.ref == 'refs/heads/master'
         run: |
           curl -XPOST -u "eol-vl:${{ secrets.CR_PAT }}" -H "Accept: application/vnd.github.everest-preview+json" -H "Content-Type: application/json" https://api.github.com/repos/eol-virtuallabx/edx-argocd/dispatches --data '{"event_type": "update-images", "client_payload": {"type": "norteamericano"}}'
