@@ -1,3 +1,3 @@
 # norteamericano-edx
 
-Open edX image to host Norteamericano edX instance.
+Open edX image to host Norteamericano edX instance
