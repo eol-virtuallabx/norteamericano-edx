@@ -2,4 +2,5 @@
 -e git+https://github.com/eol-virtuallabx/norteamericano-zoom-xblock@c73b31de9236df3aa01aa79e17c2d94ce52da91e#egg=zoom-xblock
 -e git+https://github.com/eol-virtuallabx/edx_xblock_scorm@af72761ad08d5570e85d35d3ed7908618e707dac#egg=scormxblock
 -e git+https://github.com/eol-virtuallabx/edx-sga@ee43f7993e6a81626fc3a4666cfa09fe3c2140cb#egg=edx-sga
--e git+https://github.com/eol-virtuallabx/norteamericano_custom_form@9836aefe7a470e6e96e91076914ee660e4a7c1a7#egg=norteamericano_custom_form
+-e git+https://github.com/eol-virtuallabx/norteamericano_custom_form@cd360ec9903b4833d5d4572ff29cda7b36ff6c5b#egg=norteamericano_custom_form
+-e git+https://github.com/eol-virtuallabx/norteamericano-api@92355c8c50a0e7d0125cf684911e80aa23449072#egg=norteamericano-api
