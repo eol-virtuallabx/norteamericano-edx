@@ -3,4 +3,4 @@
 -e git+https://github.com/eol-virtuallabx/edx_xblock_scorm@af72761ad08d5570e85d35d3ed7908618e707dac#egg=scormxblock
 -e git+https://github.com/eol-virtuallabx/edx-sga@ee43f7993e6a81626fc3a4666cfa09fe3c2140cb#egg=edx-sga
 -e git+https://github.com/eol-virtuallabx/norteamericano_custom_form@cd360ec9903b4833d5d4572ff29cda7b36ff6c5b#egg=norteamericano_custom_form
--e git+https://github.com/eol-virtuallabx/norteamericano-api@a1e4c4c441341515cd4719280b2aa27a75e9d0c0#egg=norteamericano-api
+-e git+https://github.com/eol-virtuallabx/norteamericano-api@2109accbe2a17ab0472ef893a6307ea1027fdfa4#egg=norteamericano-api
