@@ -20,7 +20,7 @@
 -e git+https://github.com/eol-uchile/flow-control-xblock@4e275efba4e37d9371a27df4997c692c0b40d281#egg=flow-control-xblock
 -e git+https://github.com/eol-uchile/problem-builder@97ce5aa38ec9dd284a58298f4e3195db057000cb#egg=problem-builder
 -e git+https://github.com/eol-uchile/eol_auto_login@93ce98962284a6d0e6bbd0f0f5ee4231a279a1d3#egg=eol_auto_login
--e git+https://github.com/eol-uchile/redfid_logout@0fc25639fdb995ab66dbfad67bafe6b1c2b37593#egg=redfid_logout
+-e git+https://github.com/eol-uchile/redfid_logout@bb679f20d510d0815bc67a4d403c5555f5b52d62#egg=redfid_logout
 -e git+https://github.com/eol-uchile/iaa-xblock@ecc49512ea39c8f447692c1e59a60e82b36ffd6a#egg=iaa-xblock
 
 fluent-logger==0.9.6
