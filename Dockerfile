@@ -1,4 +1,4 @@
-FROM ghcr.io/eol-virtuallabx/edx-platform:koa-7005fa8065dec98dc23264990d00b2fb9236476d as base
+FROM ghcr.io/eol-virtuallabx/edx-platform:koa-7704f42a04dffcb6a88f105d41ee08487c2d642f as base
 
 # Install private requirements: this is useful for installing custom xblocks.
 # In particular, to install xblocks from a private repository, clone the
