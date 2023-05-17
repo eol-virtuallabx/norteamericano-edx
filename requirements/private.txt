@@ -1,5 +1,5 @@
 -e git+https://github.com/eol-uchile/edx-sga@ee43f7993e6a81626fc3a4666cfa09fe3c2140cb#egg=edx-sga
--e git+https://github.com/eol-uchile/edx-ora2.git@e873498bd2671b830f19a2441ec1608b7d4bbbc4#egg=ora2
+-e git+https://github.com/eol-uchile/edx-ora2.git@5fcbea9a384148acc1516d891b87c6710f400791#egg=ora2
 -e git+https://github.com/eol-uchile/eol-container-xblock.git@747b14c92559540ff47a44891f7da1393c2fffab#egg=eolcontainer-xblock
 -e git+https://github.com/eol-uchile/eol-conditional-xblock.git@725b8eac92418a70b5a5081e953539477f459a60#egg=eolconditional-xblock
 -e git+https://github.com/eol-uchile/eol-question-xblock.git@035d1eaca888d16c2c28f3ac28b985bd4cac74b0#egg=eolquestion-xblock
@@ -21,7 +21,7 @@
 -e git+https://github.com/eol-uchile/problem-builder@97ce5aa38ec9dd284a58298f4e3195db057000cb#egg=problem-builder
 -e git+https://github.com/eol-uchile/eol_auto_login@93ce98962284a6d0e6bbd0f0f5ee4231a279a1d3#egg=eol_auto_login
 -e git+https://github.com/eol-uchile/redfid_logout@bb679f20d510d0815bc67a4d403c5555f5b52d62#egg=redfid_logout
--e git+https://github.com/eol-uchile/iaa-xblock@5c7fb1a412c0fab134ecbcf7c326cd96d957d22a#egg=iaa-xblock
+-e git+https://github.com/eol-uchile/iaa-xblock@9f212e89968f6734a6cdda1c68adbfd1afa6462a#egg=iaa-xblock
 -e git+https://github.com/eol-uchile/eol_duplicate_xblock@bdd3f406521cb028c142eb29e6c3c9c6433bba49#egg=eol_duplicate_xblock
 
 fluent-logger==0.9.6
