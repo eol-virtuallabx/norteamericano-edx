@@ -1,0 +1,1 @@
+-e git+https://github.com/eol-uchile/eol_completion@30303bc4c2195789093e4b634e8ebe5fa639981a#egg=eol_completion
