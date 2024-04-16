@@ -74,17 +74,15 @@ System_Boundary(c1, "edx-platform: norteamericano-edx", $link="https://github.co
             
                 Container(xblocks14, "eolpersistenttab-xblock", $link="https://github.com/eol-uchile/eol-persistent-tab-xblock")
             
-                Container(xblocks15, "problem-builder", $link="https://github.com/eol-uchile/problem-builder")
+                Container(xblocks15, "eolquestion-xblock", $link="https://github.com/eol-uchile/eol-question-xblock.git")
             
-                Container(xblocks16, "eolquestion-xblock", $link="https://github.com/eol-uchile/eol-question-xblock.git")
+                Container(xblocks16, "scormxblock", $link="https://github.com/eol-uchile/edx_xblock_scorm")
             
-                Container(xblocks17, "scormxblock", $link="https://github.com/eol-uchile/edx_xblock_scorm")
+                Container(xblocks17, "edx-sga", $link="https://github.com/eol-uchile/edx-sga")
             
-                Container(xblocks18, "edx-sga", $link="https://github.com/eol-uchile/edx-sga")
+                Container(xblocks18, "ubcpi", $link="https://github.com/eol-uchile/ubcpi")
             
-                Container(xblocks19, "ubcpi", $link="https://github.com/eol-uchile/ubcpi")
-            
-                Container(xblocks20, "vof-xblock", $link="https://github.com/eol-uchile/eol-vof-xblock.git")
+                Container(xblocks19, "vof-xblock", $link="https://github.com/eol-uchile/eol-vof-xblock.git")
             
             }
         
