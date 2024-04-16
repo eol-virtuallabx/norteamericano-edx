@@ -84,6 +84,8 @@ System_Boundary(c1, "edx-platform: norteamericano-edx", $link="https://github.co
             
                 Container(xblocks19, "vof-xblock", $link="https://github.com/eol-uchile/eol-vof-xblock.git")
             
+                Container(xblocks20, "iterative-xblock", $link="https://github.com/cmmedu/iterative-xblock.git")
+            
             }
         
     }
