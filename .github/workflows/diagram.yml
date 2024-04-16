@@ -1,6 +1,7 @@
 name: Diagram generation
 
 on:
+  workflow_call:
   push:
     paths:
       - 'Dockerfile'
