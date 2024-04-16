@@ -3,6 +3,8 @@ name: Diagram generation
 on:
   workflow_call:
   push:
+    branches:
+      - 'master'
     paths:
       - 'Dockerfile'
       - 'requirements/**.txt'
