@@ -10,6 +10,8 @@ System_Boundary(c1, "edx-platform: norteamericano-edx", $link="https://github.co
         
             System_Boundary(apis, "apis", $link="https://github.com/eol-virtuallabx/norteamericano-edx/blob/vlabx-release/koa/requirements/apis.txt") {
             
+                Container(apis1, "redfid_edx_api", $link="https://github.com/cmmedu/redfid-edx-api.git")
+            
             }
         
             System_Boundary(apps, "apps", $link="https://github.com/eol-virtuallabx/norteamericano-edx/blob/vlabx-release/koa/requirements/apps.txt") {
